@@ -2,7 +2,7 @@
     "warehouse": "bigquery",
     "defaultSchema": "dataform",
     "assertionSchema": "dataform_assertions",
-    "defaultDatabase": "ai-analytics-solutions",
+    "defaultDatabase": "airy-timing-396823",
     "defaultLocation": "US",
     "useRunCache": false
 }
